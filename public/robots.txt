@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mendiraju.github.io/metrochem-website/sitemap.xml
